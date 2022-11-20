@@ -10,7 +10,7 @@
 
 **Turma**: 10A, 10A
 
-Link do repositório GitHub: 
+Link do repositório GitHub: https://github.com/eribito/EFC1-GCC253
 
 ● O trabalho deve ser feito em grupos de no máximo 4 componentes (Apenas um deve enviar a atividade no Campus Virtual)
 
